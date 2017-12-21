@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539273156848",
+    "firebase_url": "https://jobhilfe-4cc4a.firebaseio.com",
+    "project_id": "jobhilfe-4cc4a",
+    "storage_bucket": "jobhilfe-4cc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539273156848:android:c83c4282b8c040b0",
+        "android_client_info": {
+          "package_name": "com.example.luongtiendat.jobhilfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539273156848-7tlk02u61hpo89973usmrned8dnrmtn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luongtiendat.jobhilfe",
+            "certificate_hash": "20d8382e02ba715258b18a88e81f25f1f401dcb1"
+          }
+        },
+        {
+          "client_id": "539273156848-6b35radcqpseski5moi9j5ipdgane9g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBph3bCCErt0pfV4lZS_-n7k49EpIAARk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539273156848-6b35radcqpseski5moi9j5ipdgane9g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

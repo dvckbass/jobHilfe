@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_perm_identity_black_24dp"
+            android:title="Profil" />
+
+        <item
+            android:id="@+id/nav_auftrag"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="Meine Aufträge" />
+
+        <item
+            android:id="@+id/nav_bewerbung"
+            android:icon="@drawable/ic_class_black_24dp"
+            android:title="Meine Bewerbung" />
+
+        <item
+            android:id="@+id/nav_suchen"
+            android:icon="@drawable/ic_find_in_page_black_24dp"
+            android:title="Stellen Suchen" />
+
+        <item
+            android:id="@+id/nav_abmelden"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Abmelden" />
+
+    </group>
+
+
+
+</menu>
